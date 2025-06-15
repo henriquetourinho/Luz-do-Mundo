@@ -1,3 +1,17 @@
+# /*********************************************************************************
+# * Projeto:   Luz do Mundo
+# * Script:    luz_do_mundo.py
+# * Autor:     Carlos Henrique Tourinho Santana
+# * Data:      15 de junho de 2025
+# * GitHub:    https://github.com/henriquetourinho/luz-do-mundo
+# *
+# * Descrição:
+# * Jogo de plataforma 2D com tema cristão, desenvolvido em Python com a
+# * biblioteca padrão Tkinter. O projeto é 100% autônomo, sem a necessidade
+# * de dependências externas ou arquivos de imagem, focando na jornada
+# * simbólica da fé contra as adversidades.
+# *********************************************************************************/
+
 import tkinter as tk
 from tkinter import simpledialog
 import math
